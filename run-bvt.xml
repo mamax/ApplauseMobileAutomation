@@ -1,0 +1,8 @@
+<suite name="BVT Test Suite" verbose="1" parallel="classes"
+	thread-count="1">
+	<test name="bvt" preserve-order="true">
+		<classes>
+			<class name ="com.applause.fox.auto.TestSample"/>
+		</classes>
+	</test>
+</suite>
